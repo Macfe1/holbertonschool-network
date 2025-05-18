@@ -34,3 +34,16 @@ Continues with more practical aspects such as:
 
 - Network debugging tools
 
+### what_happens_when_you_type_google_com_in_your_browser_and_press_enter:
+
+A written explanation (in plain text) that breaks down, step-by-step, what happens behind the scenes when a user types a URL into a browser and presses Enter. It includes:
+
+- DNS resolution
+
+- Establishing a TCP connection
+
+- Sending an HTTP request
+
+- Server response
+
+- Browser rendering
